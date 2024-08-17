@@ -44,6 +44,8 @@ nav,article {
 }
 }
 h1 {
+    border:5px solid blue;
+    text-align:center;
     color:red;
     font-size:100px;
     font-family:verdana;
